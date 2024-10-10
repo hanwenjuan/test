@@ -165,7 +165,7 @@
         <mxCell id="pitsX1S76VtzRZdV6PsT-23" value="功能注释富集" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="451" y="1386.69" width="120" height="36.88" as="geometry" />
         </mxCell>
-        <mxCell id="pitsX1S76VtzRZdV6PsT-28" value="TMT分析逻辑图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="pitsX1S76VtzRZdV6PsT-28" value="TMT/DIA分析逻辑图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry y="831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pitsX1S76VtzRZdV6PsT-29" value="DIA分析逻辑图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" parent="1" vertex="1">
