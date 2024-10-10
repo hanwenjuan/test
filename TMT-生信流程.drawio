@@ -13,13 +13,13 @@
         <mxCell id="I2fkrfDvTkCimYVPOqmN-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="I2fkrfDvTkCimYVPOqmN-2" target="I2fkrfDvTkCimYVPOqmN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I2fkrfDvTkCimYVPOqmN-2" value="蛋白定量分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+        <mxCell id="I2fkrfDvTkCimYVPOqmN-2" value="样本水平鉴定分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="120" y="245" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I2fkrfDvTkCimYVPOqmN-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="I2fkrfDvTkCimYVPOqmN-3" target="I2fkrfDvTkCimYVPOqmN-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I2fkrfDvTkCimYVPOqmN-3" value="差异分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+        <mxCell id="I2fkrfDvTkCimYVPOqmN-3" value="蛋白定量分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="120" y="325" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I2fkrfDvTkCimYVPOqmN-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="I2fkrfDvTkCimYVPOqmN-8" edge="1">
@@ -30,7 +30,7 @@
         <mxCell id="I2fkrfDvTkCimYVPOqmN-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="I2fkrfDvTkCimYVPOqmN-8" target="I2fkrfDvTkCimYVPOqmN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I2fkrfDvTkCimYVPOqmN-8" value="差异蛋白" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+        <mxCell id="I2fkrfDvTkCimYVPOqmN-8" value="互作蛋白" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="115" y="425" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I2fkrfDvTkCimYVPOqmN-10" value="出具报告" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
@@ -171,12 +171,6 @@
         <mxCell id="pitsX1S76VtzRZdV6PsT-29" value="DIA分析逻辑图" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="534" y="1304" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-2" value="&lt;b&gt;no&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="534" y="1304" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-3" value="&lt;font color=&quot;#0a0a09&quot;&gt;No&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="176" y="1241" width="60" height="30" as="geometry" />
         </mxCell>
@@ -185,6 +179,85 @@
         </mxCell>
         <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-5" value="&lt;font color=&quot;#0a0a09&quot;&gt;Yes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="92" y="1452" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-55" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-56" target="nwgO0Flp7MJx7ZFQ7UVK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据质控分析&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1668" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-58" target="nwgO0Flp7MJx7ZFQ7UVK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-58" value="蛋白定量分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1748" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-60" target="nwgO0Flp7MJx7ZFQ7UVK-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-60" value="差异分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1828" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="2058" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-62" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-63" target="nwgO0Flp7MJx7ZFQ7UVK-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-63" value="差异蛋白" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry y="1928" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-64" value="出具报告" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1953" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-67" target="nwgO0Flp7MJx7ZFQ7UVK-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-66" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-67" target="nwgO0Flp7MJx7ZFQ7UVK-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-67" value="模式生物" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry y="2058" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-68" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-69" target="nwgO0Flp7MJx7ZFQ7UVK-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-69" value="同源序列比对" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2084.25" width="110" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-70" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="2217" as="sourcePoint" />
+            <mxPoint x="365" y="1978" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="2217" />
+              <mxPoint x="645" y="1978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-71" value="GO、KEGG、PPI" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="1.5" y="2198" width="167" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;fillColor=#BC6C25;" edge="1" parent="1" source="nwgO0Flp7MJx7ZFQ7UVK-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="2106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-73" value="功能注释富集" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="2087.69" width="120" height="36.88" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-74" value="&lt;font color=&quot;#0a0a09&quot;&gt;No&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1942" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-75" value="&lt;font color=&quot;#0a0a09&quot;&gt;No&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2074" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-76" value="&lt;font color=&quot;#0a0a09&quot;&gt;Yes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="86" y="2153" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
