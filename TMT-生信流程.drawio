@@ -32,7 +32,7 @@
         <mxCell id="I2fkrfDvTkCimYVPOqmN-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="I2fkrfDvTkCimYVPOqmN-8" target="I2fkrfDvTkCimYVPOqmN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I2fkrfDvTkCimYVPOqmN-8" value="互作蛋白" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="I2fkrfDvTkCimYVPOqmN-8" value="是否存在互作蛋白" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="114" y="507" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I2fkrfDvTkCimYVPOqmN-10" value="出具报告" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
@@ -261,7 +261,7 @@
         <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-76" value="&lt;font color=&quot;#0a0a09&quot;&gt;Yes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="86" y="2153" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-77" value="蛋白定量分析" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-77" value="互作蛋白筛选" style="whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="119" y="411" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nwgO0Flp7MJx7ZFQ7UVK-78" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
